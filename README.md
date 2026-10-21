@@ -7,7 +7,7 @@ Full-stack TypeScript engineer based in Berlin. I build full stack applications 
 - **[accessible-modal](https://github.com/walen007/accessible-modal)**: a React modal built for keyboard and screen reader users
 
 ### Currently
-[What you're learning or building, and the kind of role you're looking for]
+🔭 I’m currently working on a B2B, B2C and P2P sharing platform.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/adebowale-akinola-03b147122)
 
